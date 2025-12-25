@@ -227,9 +227,9 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/full-resume.png 1" width="600">
-  <img src="screenshots/full-resume.png 2" width="600">
-  <img src="screenshots/full-resume.png 3" width="600">
+  <img src="screenshots:/full-resume.png 1.png" width="600">
+  <img src="screenshots:/full-resume.png 2.png" width="600">
+  <img src="screenshots:/full-resume.png 3.png" width="600">
 </p>
 
 
@@ -242,7 +242,7 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/header-section.png" width="600">
+  <img src="screenshots:/header-section.png" width="600">
 </p>
 
 
@@ -254,7 +254,7 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 > **Screenshot Placeholder**: Skills organized by category
 
 <p align="center">
-  <img src="screenshots/skills-section.png" width="600">
+  <img src="screenshots:/skills-section.png" width="600">
 </p>
 
 
@@ -267,7 +267,7 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/experience-section.png" width="600">
+  <img src="screenshots:/experence-section.png".png" width="600">
 </p>
 
 
@@ -281,7 +281,7 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/projects-section.png" width="600">
+  <img src="screenshots:/projects-section.png" width="600">
 </p>
 
 
@@ -294,7 +294,8 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/education-section.png" width="600">
+  <img src="screenshots:/education-section.png" width="600">
+  <img src="screenshots:/certification-section.png" width="600">
 </p>
 
 
@@ -307,8 +308,8 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots/mobile-view.jpg" width="600">
-  <img src="screenshots/mobile-view.jpg 1" width="600">
+  <img src="screenshots:/mobile-view.jpg" width="600">
+  <img src="screenshots:/mobile-view.jpg 1.png" width="600">
 </p>
 
 
