@@ -1,85 +1,124 @@
-📋 Table of Contents
-	•	About the Project
-	•	Features
-	•	Tech Stack
-	•	Project Structure
-	•	Getting Started
-	•	Screenshots
-	•	Usage
-	•	Roadmap
-	•	License
-	•	Contact
-🎯 About the Project
+# 🚀 Interactive HTML Resume - Bhagyashree Mali
 
-This repository contains my professional resume website built using pure HTML and basic CSS.
+<div align="center">
 
-🌟 Why This Project?
-	•	Strengthen HTML fundamentals
-	•	Learn clean & semantic structure
-	•	Create a professional GitHub portfolio
-	•	ATS-friendly resume format
-	•	Easy to maintain and update
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=AIML+Engineer+%26+Web+Developer;Building+Intelligent+Solutions;Passionate+About+AI%2FML+%26+Web+Tech)
 
-🎓 Background
+[![GitHub followers](https://img.shields.io/github/followers/bhagyashreemali?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/bhagyashreemali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagyashreemali1624@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=bhagyashreemali&style=for-the-badge&color=brightgreen)](https://github.com/bhagyashreemali)
 
-I am a B.E. Artificial Intelligence & Machine Learning student with strong interest in AI, ML, Web Development, and Data Analytics. This resume represents my technical journey and hands-on projects.
+</div>
 
-⸻
+---
 
-✨ Features
-	•	✅ Pure HTML structure
-	•	✅ Very basic CSS
-	•	✅ Beginner-friendly
-	•	✅ Clean & readable
-	•	✅ ATS & print friendly
-	•	✅ No frameworks / JS
+## 📋 Table of Contents
 
-⸻
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Skill Levels](#-skill-levels)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Screenshots](#-screenshots)
+- [Usage](#-usage)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
+- [Acknowledgments](#-acknowledgments)
 
-🛠️ Tech Stack
+---
 
-Languages & Markup
-	•	HTML5
-	•	CSS3
+## 🎯 About the Project
 
-Tools
-	•	Git
-	•	GitHub
-	•	VS Code
+This repository contains my **professional resume** built using **pure semantic HTML5** with **basic CSS**.  
+No JavaScript, no frameworks — just clean, readable, and accessible code.
 
-⸻
+### 🌟 Why This Project?
 
-📁 Project Structure
-resume-site/
+- **Simplicity** – Focus on core web fundamentals
+- **Accessibility** – Semantic HTML for screen readers
+- **Professional Structure** – Industry-style documentation
+- **Portfolio Ready** – Ideal for recruiters & internships
+
+### 🎓 Background
+
+I am a **B.E. Artificial Intelligence & Machine Learning student** at **Zeal College of Engineering and Research**, Pune.  
+I enjoy building AI-powered applications and clean web solutions. This resume reflects my academic journey, skills, projects, and internships.
+
+---
+
+## ✨ Features
+
+- ✅ Pure HTML5 structure
+- ✅ Minimal & basic CSS
+- ✅ Semantic tags for accessibility
+- ✅ Beginner-friendly code
+- ✅ Easy to edit & maintain
+- ✅ ATS & print friendly
+- ✅ SEO-optimized headings
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Markup
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 💪 Skill Levels
+Programming Languages
+████████████████████████████████░░░░░ Python (90%)
+████████████████████████████░░░░░░░░░ Java (85%)
+██████████████████████████░░░░░░░░░░░ C++ (80%)
+
+Web Development
+██████████████████████████████████░░░ HTML/CSS (95%)
+████████████████████████████░░░░░░░░░ JavaScript (85%)
+██████████████████████████░░░░░░░░░░░ React.js (80%)
+
+AI / ML
+████████████████████████████████░░░░░ Machine Learning (85%)
+████████████████████████████░░░░░░░░░ Deep Learning (80%)
+██████████████████████████████░░░░░░░ NLP (85%)
+---
+
+## 📁 Project Structure
+resume-project/
 │
-├── index.html
-├── style.css
-├── README.md
-└── screenshots/
+├── index.html        # Resume HTML file
+├── style.css         # Basic CSS
+├── README.md         # Documentation
+└── screenshots/      # Output screenshots
+---
 
-⸻
+## 🚀 Getting Started
 
-💻 Usage
-	•	Open index.html in browser
-	•	Modify HTML for updates
-	•	Print directly as PDF
-	•	Deploy using GitHub Pages (optional)
+### Prerequisites
+- Any modern web browser
 
-⸻
+### Steps
 
-🗺️ Roadmap
-	•	Pure HTML resume
-	•	Basic CSS styling
-	•	Improve CSS design
-	•	Add dark mode
-	•	Deploy on GitHub Pages
-	•	Convert to React
-
-⸻
-
-📜 License
-
-MIT License – free to use and modify.
+```bash
+git clone https://github.com/bhagyashreemali/resume-html.git
+cd resume-html
+open index.html
 
 ⸻
 
@@ -87,7 +126,16 @@ MIT License – free to use and modify.
 
 Bhagyashree Mali
 	•	📧 Email: bhagyashreemali1624@gmail.com
-	•	💼 GitHub: https://github.com/bhagyashreemali
+	•	💼 LinkedIn: https://www.linkedin.com/
+	•	🐱 GitHub: https://github.com/bhagyashreemali
 	•	📍 Pune, Maharashtra, India
+
+⸻
+
+🙏 Acknowledgments
+	•	Zeal College of Engineering and Research
+	•	My Job Grow – AI Internship
+	•	Novitech R&D – Full Stack & Data Analytics Internship
+	•	Open-source community
 
 ⸻
