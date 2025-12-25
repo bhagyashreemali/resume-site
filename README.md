@@ -227,12 +227,10 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 
 <p align="center">
-  <img src="screenshots:/full-resume.png 1.png" width="600">
-  <img src="screenshots:/full-resume.png 2.png" width="600">
-  <img src="screenshots:/full-resume.png 3.png" width="600">
+  <img src="screenshots/full-resume-1.png" width="600" alt="Full Resume Page 1">
+  <img src="screenshots/full-resume-2.png" width="600" alt="Full Resume Page 2">
+  <img src="screenshots/full-resume-3.png" width="600" alt="Full Resume Page 3">
 </p>
-
-
 
 ---
 
@@ -240,12 +238,9 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 > **Screenshot Placeholder**: Header with name and contact information
 
-
 <p align="center">
-  <img src="screenshots:/header-section.png" width="600">
+  <img src="screenshots/header-section.png" width="600" alt="Header Section">
 </p>
-
-
 
 ---
 
@@ -254,10 +249,8 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 > **Screenshot Placeholder**: Skills organized by category
 
 <p align="center">
-  <img src="screenshots:/skills-section.png" width="600">
+  <img src="screenshots/skills-section.png" width="600" alt="Skills Section">
 </p>
-
-
 
 ---
 
@@ -265,13 +258,9 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 > **Screenshot Placeholder**: Professional experience with internships
 
-
 <p align="center">
-  <img src="screenshots:/experence-section.png".png" width="600">
+  <img src="screenshots/experience-section.png" width="600" alt="Experience Section">
 </p>
-
-
----
 
 ---
 
@@ -279,12 +268,9 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 > **Screenshot Placeholder**: Featured projects with descriptions
 
-
 <p align="center">
-  <img src="screenshots:/projects-section.png" width="600">
+  <img src="screenshots/projects-section.png" width="600" alt="Projects Section">
 </p>
-
-
 
 ---
 
@@ -292,13 +278,10 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 > **Screenshot Placeholder**: Academic background and certifications
 
-
 <p align="center">
-  <img src="screenshots:/education-section.png" width="600">
-  <img src="screenshots:/certification-section.png" width="600">
+  <img src="screenshots/education-section.png" width="600" alt="Education Section">
+  <img src="screenshots/certification-section.png" width="600" alt="Certification Section">
 </p>
-
-
 
 ---
 
@@ -306,13 +289,10 @@ That's it! No build process, no dependencies, just pure HTML! 🎉
 
 > **Screenshot Placeholder**: Responsive view on mobile devices
 
-
 <p align="center">
-  <img src="screenshots:/mobile-view.jpg" width="600">
-  <img src="screenshots:/mobile-view.jpg 1.png" width="600">
+  <img src="screenshots/mobile-view-1.jpg" width="600" alt="Mobile View 1">
+  <img src="screenshots/mobile-view-2.jpg" width="600" alt="Mobile View 2">
 </p>
-
-
 
 ---
 
