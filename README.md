@@ -1,8 +1,7 @@
 
 # 🚀 Interactive HTML Resume - Bhagyashree Mali
 
-<h1 align="center">👋 Hey, I'm Bhagayashree Mali</h1>
-<div align="center">
+<div align ="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bhagyashree+Mali;AIML+Engineer+%7C+Web+Developer;Building+AI+Tools+%26+Responsive+Apps;Data+Visualization+Expert" alt="Typing SVG" />
   </a>
@@ -22,8 +21,6 @@
 
 <br>
 
-
----
 
 ## 📋 Table of Contents
 
