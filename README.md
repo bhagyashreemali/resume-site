@@ -2,6 +2,20 @@
   
 # 🚀 Interactive HTML Resume - Bhagyashree Mali
 </div>
+<h3 align="center">
+AI/ML Engineering Student • Aspiring AI/ML Engineer • Web Development Enthusiast  
+</h3
+  </p>
+ <p align="center">
+ <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineering+Student;Aspiring+AI%2FML+Engineer;Web+Development+Enthusiast;Building+Smart+and+Creative+Systems"
+    alt="Typing Animation"
+</p>
+
+<p align="center">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=header"/>
+
 
 <div align ="center">
   <a href="https://git.io/typing-svg">
