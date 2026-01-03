@@ -1,5 +1,7 @@
-
+<div align ="center">
+  
 # 🚀 Interactive HTML Resume - Bhagyashree Mali
+</div>
 
 <div align ="center">
   <a href="https://git.io/typing-svg">
